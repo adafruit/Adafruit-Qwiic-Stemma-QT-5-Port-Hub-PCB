@@ -1,6 +1,6 @@
 ## Adafruit Qwiic / Stemma QT 5 Port Hub PCB
 
-<a href="http://www.adafruit.com/products/5625"><img src="assets/5625.jpg?raw=true" width="500px"><br/>
+<a href="http://www.adafruit.com/products/5625"><img src="assets/5625-03.jpg?raw=true" width="500px"><br/>
 Click here to purchase one from the Adafruit shop</a>
 
 PCB files for the Adafruit Qwiic / Stemma QT 5 Port Hub. 
